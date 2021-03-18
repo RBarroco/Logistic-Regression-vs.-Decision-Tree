@@ -1,5 +1,5 @@
 If the project is not visible on github, you can use this link:</br>
-https://nbviewer.jupyter.org/github/RBarroco/supervised-learning-logisticRegression-DecisionTree/blob/master/supervised-learning-logistic-tree-loan-modelling.ipynb
+https://nbviewer.jupyter.org/github/RBarroco/Logistic-Regression-vs.-Decision-Tree/blob/master/supervised-learning-logistic-tree-loan-modelling.ipynb
 
 ## Logistic Regression and Decision Tree Classification
 
