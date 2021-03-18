@@ -3,6 +3,24 @@ https://nbviewer.jupyter.org/github/RBarroco/Logistic-Regression-vs.-Decision-Tr
 
 ## Logistic Regression and Decision Tree Classification
 
+Tools:</b>
+
+1) Anaconda or Conda for environment creation.
+2) Exploratory data analysis, uni-variate and multi-variate analysis.
+3) Scikit-learn and statsmodels
+4) Working with imbalanced data set
+5) Feature Engineering and data preprocessing
+6) Model preparation
+7) Logistic Regression Log Loss
+8) ROC, AUC curve
+9) Accuracy, Precision, Recall and f1-score
+10) Finding the best threshold for Logistic Regression curve
+11) Test for multicollinearity
+12) Feature importance
+13) Precision-Recall curve (to find best threshold)
+14) Confusion Matrix
+15) Business insights
+
 ### Background and Context
 
 AllLife Bank has a growing customer base. Majority of these customers are liability customers (depositors) with varying size of deposits. The number of customers who are also borrowers (asset customers) is quite small, and the bank is interested in expanding this base rapidly to bring in more loan business and in the process, earn more through the interest on loans. In particular, the management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors).
