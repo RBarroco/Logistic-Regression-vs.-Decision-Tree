@@ -1,7 +1,25 @@
 If the project is not visible on github, you can use this link:</br>
-https://nbviewer.jupyter.org/github/RBarroco/supervised-learning-logisticRegression-DecisionTree/blob/master/supervised-learning-logistic-tree-loan-modelling.ipynb
+https://nbviewer.jupyter.org/github/RBarroco/Logistic-Regression-vs.-Decision-Tree/blob/master/supervised-learning-logistic-tree-loan-modelling.ipynb
 
 ## Logistic Regression and Decision Tree Classification
+
+Tools:</b>
+
+1) Anaconda or Conda for environment creation.
+2) Exploratory data analysis, uni-variate and multi-variate analysis.
+3) Scikit-learn and statsmodels
+4) Working with imbalanced data set
+5) Feature Engineering and data preprocessing
+6) Model preparation
+7) Logistic Regression Log Loss
+8) ROC, AUC curve
+9) Accuracy, Precision, Recall and f1-score
+10) Finding the best threshold for Logistic Regression curve
+11) Test for multicollinearity
+12) Feature importance
+13) Precision-Recall curve (to find best threshold)
+14) Confusion Matrix
+15) Business insights
 
 ### Background and Context
 
